@@ -1,5 +1,5 @@
 # Window-installation-in-ubuntu
-
+---------------------------------------------------------------------------------------------------------------
 
 
 Step1:-Install virtual box by using commands
@@ -9,10 +9,10 @@ Step1:-Install virtual box by using commands
 
 
 --->sudo apt-get install virtualbox
--------------------------------------------------------------------------------------
 
 
 getting this type of error- (Couldn't find any package by regex virtualbox)
+-------------------------------------------------------------------------------------
 
 
 Run these commands:-
@@ -34,6 +34,7 @@ now finally run thise commands:-
 
 
 --->sudo apt-get install virtualbox
-------------------------------------------------------------------------------------------------------------------
+
 
 Step2:-Download iso file from browser
+-------------------------------------------------------------------------------------
